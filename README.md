@@ -1,2 +1,1 @@
-# pratica02
-pratica da UC002833
+usando o git extension
